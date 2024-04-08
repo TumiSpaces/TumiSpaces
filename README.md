@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tumisang Maramane</h1>
-![Screenshot 2024-03-24 at 16 40 47](https://github.com/TumiSpaces/TumiSpaces/assets/124736182/d17cc9a9-62ab-42e6-9527-7c987f664b8c)
+(https://github.com/TumiSpaces/TumiSpaces/assets/124736182/d17cc9a9-62ab-42e6-9527-7c987f664b8c)
 
 <h3 align="center">A passionate Data Analyst from South Africa</h3>
 
