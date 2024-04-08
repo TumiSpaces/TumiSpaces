@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tumisang Maramane</h1>
-(https://github.com/TumiSpaces/TumiSpaces/assets/124736182/d17cc9a9-62ab-42e6-9527-7c987f664b8c)
-
 <h3 align="center">A passionate Data Analyst from South Africa</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tumispaces&label=Profile%20views&color=0e75b6&style=flat" alt="tumispaces" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tumi_spaces" target="blank"><img src="https://img.shields.io/twitter/follow/tumi_spaces?logo=twitter&style=for-the-badge" alt="tumi_spaces" /></a> </p>
