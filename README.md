@@ -10,7 +10,19 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tumi.maramane](https://medium.com/@tumi.maramane)
 
-- 💬 Ask me about **With a background in data analytics and a passion for bridging the gap between analysis and engineering, I bring a unique blend of skills and expertise to the table. From completing courses in Python, SQL, and Tableau to gaining hands-on experience in analyzing diverse datasets, I am committed to mastering the tools and technologies necessary for the field of data analytics and data engineering. My journey began with a freelance role as a Data Analyst at Raw Oils, where I honed my ability to derive actionable insights from data to drive business decisions. Subsequently, I transitioned into a Portfolio Manager position at Portman, where I further developed my analytical and problem-solving skills while ensuring customer satisfaction and regulatory compliance**
+- 💬 As a dedicated Data Analyst with a comprehensive background in Business Management, Data Analytics, Business Analytics, Project Management, and Data Engineering, I am driven by a 
+     passion for bridging the gap between analysis and engineering. With a unique blend of skills and expertise, I strive to leverage data to drive strategic decision-making and 
+     organizational success.
+
+     My journey in the field of data analytics and engineering began with a strong foundation built upon completing courses in Python, SQL, and Tableau. Through hands-on experience, I 
+     have honed my ability to analyze diverse datasets and extract actionable insights that fuel business growth.
+
+     My professional career commenced with a freelance role as a Data Analyst at Raw Oils, where I cultivated my analytical prowess and contributed to informed decision-making 
+     processes. Transitioning into a Portfolio Manager position at Portman, I further refined my skills in data analysis and problem-solving, all while prioritizing customer 
+     satisfaction and regulatory compliance.
+
+     With a commitment to continuous learning and mastery of cutting-edge tools and technologies, I am dedicated to driving innovation and driving tangible results through data-driven 
+     strategies. I am excited to continue my journey in the dynamic field of data analytics and engineering, making meaningful contributions to organizations and industries at large
 
 - 📫 How to reach me **tumi.maramane@gmail.com**
 
